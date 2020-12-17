@@ -1,0 +1,6 @@
+pip install setuptools
+pip install tokenizer
+pip install matplotlib
+pip install wheel
+pip install os-sys
+pip install Pillow==2.2.2
